@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853212431450",
+    "firebase_url": "https://dev-chats.firebaseio.com",
+    "project_id": "dev-chats",
+    "storage_bucket": "dev-chats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853212431450:android:02c4cdfc74332e2cc40463",
+        "android_client_info": {
+          "package_name": "com.pasu.dev_chats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853212431450-nvqst7usbmg3o4ad4g7l641dpplk66ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP0g-iiBmFX3KHDl1ly8KHSi_am6QaW9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853212431450-nvqst7usbmg3o4ad4g7l641dpplk66ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
